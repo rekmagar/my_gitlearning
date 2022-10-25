@@ -20,3 +20,6 @@ git commit -m 'footer added'
 git push --set-upstream origin footer
 git checkout -b newbranch
 
+//switch to main branch and
+git merge footer
+git pull
