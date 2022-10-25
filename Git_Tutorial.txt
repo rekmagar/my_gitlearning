@@ -5,3 +5,14 @@ git remote remove origin
 git remote -v
 git remote add origin https://github.com/rekmagar/my_gitlearning.git
 git push -u origin main
+
+//modifying
+git add .
+git commit -m 'comment'
+git push
+
+//branch
+git branch
+git branch footer
+git checkout footer
+git checkout -b newbranch
