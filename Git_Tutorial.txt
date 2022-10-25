@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m 'Repository Created for 1st Time'
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/rekmagar/git_tutorial.git
+git push -u origin main
