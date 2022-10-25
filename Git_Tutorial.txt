@@ -15,4 +15,8 @@ git push
 git branch
 git branch footer
 git checkout footer
+git add .
+git commit -m 'footer added'
+git push --set-upstream origin footer
 git checkout -b newbranch
+
